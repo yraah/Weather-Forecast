@@ -10,10 +10,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo-google-fonts/julius-sans-one": "^0.2.3",
+    "@expo/metro-runtime": "~4.0.0",
+    "@fontsource/julius-sans-one": "^5.1.0",
+    "axios": "^1.7.9",
     "expo": "~52.0.15",
+    "expo-app-loading": "^2.1.1",
+    "expo-font": "^13.0.1",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
-    "react-native": "0.76.3"
+    "react-dom": "18.3.1",
+    "react-native": "0.76.3",
+    "react-native-paper": "^5.12.5",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-web": "~0.19.13"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
